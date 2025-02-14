@@ -1,0 +1,33 @@
+﻿FIELD POSITION,ATTRIBUTE NAME,DATA TYPE & FORMAT,MAX LENGTH
+1,Credit Score,Numeric,4
+2,First Payment Date,Date,6
+3,First Time Homebuyer Flag,Alpha,1
+4,Maturity Date,Date,6
+5,Metropolitan Statistical Area (MSA) Or Metropolitan Division,Numeric,5
+6,Mortgage Insurance Percentage (MI %),Numeric,3
+7,Number of Units,Numeric,2
+8,Occupancy Status,Alpha,1
+9,Original Combined Loan-to-Value (CLTV),Numeric,3
+10,Original Debt-to-Income (DTI) Ratio,Numeric,3
+11,Original UPB,Numeric,12
+12,Original Loan-to-Value (LTV),Numeric,3
+13,Original Interest Rate,"Numeric - 6,3",6
+14,Channel,Alpha,1
+15,Prepayment Penalty Mortgage (PPM) Flag,Alpha,1
+16,Amortization Type (Formerly Product Type),Alpha,5
+17,Property State,Alpha,2
+18,Property Type,Alpha,2
+19,Postal Code,Numeric,5
+20,Loan Sequence Number,Alpha Numeric - PYYQnXXXXXXX,12
+21,Loan Purpose,Alpha,1
+22,Original Loan Term,Numeric,3
+23,Number of Borrowers,Numeric,2
+24,Seller Name,Alpha Numeric,60
+25,Servicer Name,Alpha Numeric,60
+26,Super Conforming Flag,Alpha,1
+27,Pre-HARP Loan Sequence Number,Alpha Numeric - PYYQnXXXXXXX,12
+28,Program Indicator,Alpha Numeric,1
+29,HARP Indicator,Alpha,1
+30,Property Valuation Method,Numeric,1
+31,Interest Only (I/O) Indicator,Alpha,1
+32,Mortgage Insurance Cancellation Indicator,Alpha,1
